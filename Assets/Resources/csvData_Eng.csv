@@ -1,0 +1,13 @@
+Step count,Type,Prompt,Main Step,Sub-Step,Voiceover Clip Name,Prompt Clip Name,Sound Effects,Highlight Object (object to click),Highlight colour,Destination,Animation,Button Spawn,Camera Position
+0,Intro,Fungi growing on bread,,"- Have you ever noticed how a fungus grows? Let? explore how fungi grow on a bread under specific conditions
+- Fungi are decomposers that break down organic matter for nutrition
+- We'll create suitable conditions with moisture, warmth and a petri dish",,"Bread slice, Water dropper, Petri dish",Bread slice - Fresh bread sample used to observe fungal growth * Water dropper - Tool for adding controlled amounts of moisture * Petri dish - Sterile container for controlled observation of fungal growth,"Bread slice, Water dropper, Petri dish",,,,,
+1,,,Welcome to Fungi Growing on Bread Module,Welcome to the fungi growth experiment! You can explore the components used in this activity by pressing the button on the bottom right corner of the screen. Let's discover the world of fungi by pressing the Start experiment button.,K-12_M042_Eng_01,,,,,,,,
+2,,,Preparation,Pick up the slice of bread from the table,K-12_M042_Eng_02,,,,,,,,
+3,,,,Place the bread slice in the petri dish for controlled observation,K-12_M042_Eng_03,,,,,,,,
+4,," This is <size=150%>larger text for this alone</size> in Unity. Looking ahead to what we'll do next, we need to be careful with water - if too much is added, the fungi won't be able to collect oxygen from air.",,Add water drops to moisten the bread for fungal growth,K-12_M042_Eng_04,K-12_M042_Eng_prompt_04,,,,,,,
+5,,,Environment,Cover the petri dish to maintain moisture,K-12_M042_Eng_05,,,,,,,,
+6,,"Giving you some context for the next step, we need to maintain a consistent temperature range for optimal growth of the fungus.",,Place setup in warm location (25-30?C) for optimal growth,K-12_M042_Eng_06,K-12_M042_Eng_prompt_06,,,,,,,
+7,,,Observation,Observe bread after 3 days to see the mould growth.,K-12_M042_Eng_07,,,,,,,,
+8,con,,Conclusion,"You've observed how fungi grow on bread, appearing as fluffy patches and thread-like structures. This demonstrates their role as decomposers in breaking down organic matter through saprotrophic nutrition.",K-12_M042_Eng_08,,,,,,,,
+10,dummy,,,,,,,,,,,,
